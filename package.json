@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "axios": "^0.26.1",
+        "node-fetch": "^3.2.3"
+    },
+    "name": "javascript",
+    "version": "1.0.0",
+    "main": "main.js",
+    "type": "module",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hungdoanit95/javascript.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hungdoanit95/javascript/issues"
+    },
+    "homepage": "https://github.com/hungdoanit95/javascript#readme",
+    "description": ""
+}
