@@ -7,6 +7,7 @@ async function myFunc() {
         console.log(responseJSON);
     } catch (error) {
         console.log("Failed to fetch products: ", error);
+        console.log("ABC");
     }
 }
 myFunc();
