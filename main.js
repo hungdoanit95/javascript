@@ -1,2 +1,3 @@
-const b  = "test";
+let b  = "test";
+b = 5;
 console.log(b); 
